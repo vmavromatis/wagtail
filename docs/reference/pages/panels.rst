@@ -1,11 +1,11 @@
-.. _editing-api:
+headingheadingheading.. _editing-api:
 
 Available panel types
 =====================
 
 .. module:: wagtail.admin.edit_handlers
 
-FieldPanel
+FieldPanelheading
 ----------
 
 .. class:: FieldPanel(field_name, classname=None, widget=None, heading='')
